@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GarikVologodskiy
 - 👀 I’m interested in different projects and learning languages
-- 🌱 I’m currently learning Android/iOS app development. I'am currently a Business/Systems Analyst
+- 🌱 I'am currently a Business/Systems Analyst.
+- 🌱 I'm learning app development for Android/iOS.
 - 📫 How to reach me: 
     - telegram: @Harry_Vologodskii
     - email: garikvologodskiy@gmail.com
