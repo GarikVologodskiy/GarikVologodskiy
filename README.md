@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @HarryVologodskiy
 - 👀 I’m interested in different projects and learning languages
 - 🌱 I'am currently a Business/System analyst
-- 🌱 I'm learning app development for Android/iOS
+- 🎓 I'm learning app development for Android/iOS
 - 📫 How to reach me: 
     - telegram: @Harry_Vologodskii
     - email: garikvologodskiy@gmail.com
+
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GarikVologodskiy&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!---
 GarikVologodskiy/GarikVologodskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
