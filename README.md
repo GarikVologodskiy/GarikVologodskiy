@@ -10,9 +10,9 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GarikVologodskiy&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarikVologodskiy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![1](https://github-readme-stats.vercel.app/api?username=GarikVologodskiy&show_icons=true&theme=dark)
 
-![HarryVologodskii's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarikVologodskiy&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarikVologodskiy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 GarikVologodskiy/GarikVologodskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
